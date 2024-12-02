@@ -3,5 +3,5 @@
 @tailwind utilities;
 
 html {
-    font-family: Renner;
+    font-family: "Renner*" sans-serif;
 }
